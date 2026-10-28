@@ -12,7 +12,7 @@
             "name": "MySQL Local",
             "database": "railway_system",
             "username": "root",
-            "password": "sjn@123",
+            "password": "",
             "connectionTimeout": 30
         }
     ]
